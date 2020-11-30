@@ -1,2 +1,2 @@
 # foo.bar
-My solutions to the Google Foo Bar challenge
+My solutions to the Google Foo Bar challenge. I hope it's okay to post these... maybe I should make this a private repo, but hopefully they refresh the challenges frequently... hmmm...
